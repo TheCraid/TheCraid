@@ -1,6 +1,6 @@
 # Hi, I'm Varun S
 
-**GenAI Engineer** based in Bengaluru, building reliable AI applications with Python and large language models (LLMs).
+**AI Engineer** based in Bengaluru, building reliable AI applications with Python and large language models (LLMs).
 MCA 2026 (NMIT, Bengaluru) · Software Development Intern at Aerotics Technologies LLP.
 
 ## Featured projects
@@ -19,7 +19,7 @@ Training a small open AI model (**Qwen2.5-Coder-1.5B**) to write SQL, using **QL
 - Training saves its progress regularly, so it can continue after a disconnection · Hugging Face · PyTorch
 
 ## Skills
-**GenAI:** LLM applications · AI agents (LangGraph, LangChain) · RAG · prompt engineering · guardrails · LLM evaluation · QLoRA fine-tuning
+**AI:** LLM applications · AI agents (LangGraph, LangChain) · RAG · prompt engineering · guardrails · LLM evaluation · QLoRA fine-tuning
 **Models:** Groq (GPT-OSS) · Ollama (Qwen) · Hugging Face Transformers · PyTorch
 **Backend and data:** Python · FastAPI · REST APIs · SQL · DuckDB · SQLite · SQLAlchemy
 **Engineering:** pytest · Docker · GitHub Actions · Git · AWS (currently learning)
