@@ -1,7 +1,6 @@
 # Hi, I'm Varun S
 
-**AI Engineer** based in Bengaluru, building reliable AI applications with Python and large language models (LLMs).
-MCA 2026 (NMIT, Bengaluru) · Software Development Intern at Aerotics Technologies LLP.
+MCA 2026 graduate and Software Development Intern at Aerotics Technologies LLP, based in Bengaluru. I build reliable AI applications with Python and large language models (LLMs).
 
 ## Featured projects
 
